@@ -3,4 +3,3 @@ tmp/*
 .xml
 *.txt
 .cs
-tmp/todo.txt
